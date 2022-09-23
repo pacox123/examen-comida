@@ -102,7 +102,7 @@
     />
   </div>
   <footer>
-    <h4>© 2022 BlackSoft Company - Todos los Derechos Reservados.</h4>
+    <h6>© 2022 BlackSoft Company - Todos los Derechos Reservados.</h6>
   </footer>
 </template>
 
